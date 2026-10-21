@@ -1,3 +1,0 @@
-fastapi
-uvicorn[standard]
-[STRIPPED 66 bytes]
