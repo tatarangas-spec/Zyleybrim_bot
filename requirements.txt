@@ -1,3 +1,0 @@
-deriv-api
-requests
-websockets
